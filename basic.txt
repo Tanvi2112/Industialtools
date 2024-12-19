@@ -1,2 +1,3 @@
 this file is in working area
 this file in statging are
+this file in commited area
